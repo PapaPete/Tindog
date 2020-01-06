@@ -1,2 +1,0 @@
-# Tindog
-Project Website
